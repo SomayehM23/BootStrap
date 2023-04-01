@@ -1,0 +1,149 @@
+body{
+ background-color: white;
+}
+
+.t1{
+  text-align: center;
+    background-color: black;
+    color: white;
+}
+.p1{
+
+}
+.continer{
+    width: 80%;
+    margin: auto;
+}
+.p1
+{
+    border: 3px darksalmon dotted;
+    padding:20px 20px ;
+    font-family: Arial,Altea;
+    font-style: italic;
+    line-height: 30px;
+}
+.My-from .MyL{
+    width: 100%;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    height:25px;
+}
+.My-from .area{
+    height: 90px;
+
+}
+
+.Btn{
+    width: 100%;
+    border: snow;
+    border-radius: 10px;
+    height: 30px;
+    background-color: coral;
+}
+
+.Btn:hover{
+    background-color: brown;
+    color: white;
+}
+
+
+.Spa{
+    margin-bottom: 500px;
+}
+.Categ li{
+    list-style-image: url("../Images/tik.jpg");
+    text-decoration: none;
+}
+.Categ .a{
+    text-decoration: none;
+}
+.nav1{
+    border-bottom: black 1px solid;
+    background-color: rgba(222, 184, 135, 0.41);
+
+}
+.nav-item{
+    font-family: "B Nazanin";
+}
+
+.btn-font{
+    font-family: "B Nazanin";
+   font-size: 16px;
+    color: rgb(0, 0, 0);
+    border-color: #000000;
+
+}
+
+
+.btn-hover:hover
+{
+    background-color: rgba(222, 184, 135, 0.41);
+}
+.border-im{
+    font-family: "B Nazanin";
+    padding: 5px;
+    margin: 5px;
+    border: 2px rgba(222, 184, 135, 0.41) solid;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.border-im:hover{
+    box-shadow: 0 .3rem 1rem ;
+}
+.imd-p{
+    padding-left: 7px;
+}
+.h2-style{
+    font-family: "B Nazanin";
+    padding:0.5%;
+    text-align: center;
+    margin: 2%;
+}
+
+.img-border{
+    border:2px burlywood solid ;
+
+}
+.img-border:hover{
+   box-shadow: 0 .5rem 1rem burlywood;
+}
+.hr{
+    padding-top: 1%;
+    margin-top: 5%;
+}
+.btn-conti{
+    background-color: burlywood;
+    font-size: 20px;
+    max-width: available;
+    text-align: center;
+
+
+}
+.btn-conti:hover{
+   background-color: #ece1be;
+    border-color: black;
+}
+.font-p{
+    font-size: 17px;
+    font-family: "B Nazanin";
+}
+.font-text{
+    font-family: "B Nazanin";
+}
+.h4-style{
+    font-family: "B Nazanin";
+    padding:0.5%;
+    text-align: center;
+    margin: 2%;
+    size: 16px;
+}
+
+.font-h5{
+    font-family: "B Nazanin";
+}
+a:link{
+    color: #100f0f;
+    text-decoration: none;
+}
